@@ -22,3 +22,5 @@
 <br>
 <br>
 
+<img src="https://github.com/ViniciusdeTulio/Projeto-Wide-coverage-location-DEVCLUB/blob/master/img/Desktop.png?raw=true">
+<img src="https://github.com/ViniciusdeTulio/Projeto-Wide-coverage-location-DEVCLUB/blob/master/img/Mobile.png?raw=true">
