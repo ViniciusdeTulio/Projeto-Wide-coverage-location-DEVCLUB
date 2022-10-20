@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<h2> Um dos projetos que fiz no <a href="https://rodolfomori.com.br/devclub">DevClub </a></h2>
+<h2> Projeto do <a href="https://rodolfomori.com.br/devclub">DevClub </a></h2>
 
 <br>
 
